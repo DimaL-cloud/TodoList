@@ -61,7 +61,7 @@ java -jar TodoList-0.0.1.jar
 
 ### Отримання тасок (від старих до нових) 
 
-![img_4.png](TestingImages/gettingAllTasksAscending.png)
+![img_4.png](TestingImages/GettingAllTasksAscending.png)
 
 ### Отримання виконаних тасок (за замовчуванням від нових до старих)
 

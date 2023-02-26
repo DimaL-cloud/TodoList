@@ -6,7 +6,7 @@
 ## Стек :computer: 
 Java, Spring Boot, Spring Data JPA, PostgreSQL
 
-## Вимоги :books::
+## Вимоги :books:
 1. Java - 17
 2. Maven - 3.x.x
 3. PostgreSQL - 15
@@ -14,7 +14,7 @@ Java, Spring Boot, Spring Data JPA, PostgreSQL
 ## Інструкція встановлення :page_with_curl:
 1. Склонувати програму:
 ````
-git clone 
+git clone https://github.com/DimaL-cloud/TodoList.git
 ````
 2. * Налаштувати сервер PostgreSQL. Див. schema.sql в директорії resources.
    * Змінити налаштування application.properties (дефолтні username та password: postgres)

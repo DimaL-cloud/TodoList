@@ -1,7 +1,7 @@
 # Todo list
 
 
-Тестове завдання для відбору в IASA Student Council**
+**Тестове завдання для відбору в IASA Student Council**
 
 ## Стек :computer: 
 Java, Spring Boot, Spring Data JPA, PostgreSQL

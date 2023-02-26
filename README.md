@@ -11,12 +11,12 @@ Java, Spring Boot, Spring Data JPA, PostgreSQL
 2. Maven - 3.x.x
 3. PostgreSQL - 15
 
-## Інструкція встановлення :page_with_curl::
+## Інструкція встановлення :page_with_curl:
 1. Склонувати програму:
 ````
 git clone 
 ````
-2. * Налаштувати сервер PostgreSQL. 
+2. * Налаштувати сервер PostgreSQL. Див. schema.sql в директорії resources.
    * Змінити налаштування application.properties (дефолтні username та password: postgres)
 
 
@@ -28,7 +28,7 @@ cd target
 java -jar TodoList-0.0.1.jar
 ````
 
-## Реалізований функціонал :bulb::
+## Реалізований функціонал :bulb:
 
 * Додавання таски
 * Отримання таски

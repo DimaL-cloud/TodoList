@@ -1,4 +1,4 @@
-# Todo list :bulb:
+# Todo list
 
 
 Тестове завдання для відбору в IASA Student Council**
@@ -6,12 +6,12 @@
 ## Стек :computer: 
 Java, Spring Boot, Spring Data JPA, PostgreSQL
 
-## Вимоги:
+## Вимоги :books::
 1. Java - 17
 2. Maven - 3.x.x
 3. PostgreSQL - 15
 
-## Інструкція встановлення:
+## Інструкція встановлення :page_with_curl::
 1. Склонувати програму:
 ````
 git clone 
